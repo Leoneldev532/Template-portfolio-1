@@ -53,8 +53,9 @@ const GreetingAnimation = () => {
     return (
         <div ref={parentRef} className="flex h-14 w-full font-bold my-8 flex-col overflow-hidden justify-center items-center text-5xl text-neutral-600">
             <h2 ref={el => { titlesRef.current[0] = el }} className="title-1">Bonjour</h2>
-            <h2 ref={el => { titlesRef.current[1] = el }} className="title-2">Hello</h2>
+            <h2 ref={el => { titlesRef.current[1] = el }} className="title-2">こんにちは.</h2>
             <h2 ref={el => { titlesRef.current[2] = el }} className="title-3">Hi</h2>
+            <h2 ref={el => { titlesRef.current[3] = el }} className="title-3">नमस्ते.</h2>
         </div>
     );
 }

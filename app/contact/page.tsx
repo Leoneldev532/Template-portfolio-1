@@ -102,9 +102,8 @@ const Page = () => {
                 </div>
 
                 <div className='flex flex-col my-4 border rounded-lg p-3  border-neutral-700/30 /20 w-full justify-start items-start gap-y-2'>
-                    <h4 className="text-xl block-animated"> <b>Ready to Revolutionize Design?</b></h4>
-                    <p className="text-balance text-neutral-500 block-animated">
-                        Calling all UI/UX enthusiasts and freelancers! Elevate your skills and career with our design-savvy newsletter.
+                    <h4 className="text-xl block-animated"> <b>Ready to Revolutionize your code?</b></h4>
+                    <p className="text-balance text-neutral-500 block-animated">Calling all development enthusiasts and freelancers! Elevate your skills and career with our development-focused newsletter.
                     </p>
                     <div className="flex gap-3 w-full lg:flex-row flex-col  pt-3 block-animated">
                         <input type="email" placeholder="Your-email" className="bg-neutral-500/20 text-sm px-3 rounded-lg border py-2 w-full lg:w-8/12 border-neutral-700/30 " />

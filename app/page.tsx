@@ -107,7 +107,8 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col px-5 text-lg py-4 text-balance bg-neutral-700/20 w-full">
-            <span className="text-neutral-400"> Experiences UI/UX and micro-interaction Designer working and live in Cameroun  </span>
+            <span className="text-neutral-400"> I'm a front-end developer with a strong focus on creating engaging brand experiences and intuitive
+            user interfaces  </span>
           </div>
 
         </div>

@@ -148,15 +148,16 @@ const page = () => {
                             <Image src={image5} alt="project" className={"object-cover h-full w-full"} />
                         </div>
                         <div className='w-full flex flex-col gap-y-3 justify-start items-center'>
-                            <div className="w-full flex justify-between items-start ">
-                                <b> Redesign at Syrep </b>
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-4">
-                                    <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25" />
-                                </svg>
-                            </div>
-                            <p className='text-sm opacity-75'>
-                                Working on a gamification platform empowering over two billion people to unlock their full learning potential.
-                            </p>
+                        <div className="w-full flex justify-between items-start">
+                            <b> Build smata </b>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-4">
+                                <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25" />
+                            </svg>
+                        </div>
+                        <p className='text-sm opacity-75'>
+                            Working on a gamification platform empowering over two billion people to unlock their full learning potential.
+                        </p>
+
 
                         </div>
                     </Link>
@@ -168,15 +169,15 @@ const page = () => {
                             <Image src={image3} alt="project" className={"object-cover h-full w-full"} />
                         </div>
                         <div className='w-full flex flex-col gap-y-3 justify-start items-center'>
-                            <div className="w-full flex justify-between items-start ">
-                                <b> Redesign at Syrep </b>
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-4">
-                                    <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25" />
-                                </svg>
-                            </div>
-                            <p className='text-sm opacity-75'>
-                                Working on a gamification platform empowering over two billion people to unlock their full learning potential.
-                            </p>
+                        <div className="w-full flex justify-between items-start">
+                            <b> Build smata </b>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-4">
+                                <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25" />
+                            </svg>
+                        </div>
+                        <p className='text-sm opacity-75'>
+                            Working on a gamification platform empowering over two billion people to unlock their full learning potential.
+                        </p>
 
                         </div>
                     </Link>
