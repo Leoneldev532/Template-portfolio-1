@@ -3,7 +3,7 @@
 import { WorksAccordionType } from "@/lib/type";
 import Image from "next/image";
 import WorksAccordion from "./components/WorksAccordion";
-import { useEffect, useRef } from "react";
+import { useEffect } from "react";
 import gsap from "gsap";
 import GreetingAnimation from "./components/GreetingAnimation";
 
