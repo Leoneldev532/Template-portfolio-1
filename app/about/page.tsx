@@ -96,10 +96,10 @@ const page = () => {
                     <h4 className="font-bold text-2xl"> About </h4>
                     <p>
 
-                        Hello, I'm Leonel, a seasoned developer with over a decade of experience in creating exceptional software solutions. My passion for development has enabled me to design robust and high-performing applications for a variety of platforms.
+                        Hello, I&apos;m Leonel, a seasoned developer with over a decade of experience in creating exceptional software solutions. My passion for development has enabled me to design robust and high-performing applications for a variety of platforms.
                     </p>
                     <p className='py-4'>
-                        Throughout my career, I've been driven by a passion for combining efficiency and innovation to develop software solutions that not only perform exceptionally but also provide seamless and intuitive user experiences. </p>
+                        Throughout my career, I'&apos; been driven by a passion for combining efficiency and innovation to develop software solutions that not only perform exceptionally but also provide seamless and intuitive user experiences. </p>
                 </div>
 
 

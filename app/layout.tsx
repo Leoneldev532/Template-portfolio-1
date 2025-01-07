@@ -4,8 +4,6 @@ import { Geist, Geist_Mono, Nunito } from "next/font/google";
 import "./globals.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import { animatePageIn, animatePageOut } from "./components/animation";
-import { SwitchTransition, Transition } from "react-transition-group";
 import { useRouter } from "next/navigation";
 
 

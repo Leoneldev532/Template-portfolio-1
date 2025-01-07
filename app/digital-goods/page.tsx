@@ -2,7 +2,6 @@
 import { workSaleCardType } from '@/lib/type'
 import React, { useEffect } from 'react'
 import WorkSaleCard from '../components/WorkSaleCard'
-import image1 from "@/public/1.jpg"
 import image2 from "@/public/1.png"
 import image3 from "@/public/8.png"
 import image4 from "@/public/9.png"
