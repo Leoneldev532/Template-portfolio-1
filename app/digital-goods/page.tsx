@@ -7,7 +7,7 @@ import image3 from "@/public/8.png"
 import image4 from "@/public/9.png"
 import image5 from "@/public/5.png"
 import gsap from 'gsap'
-const page = () => {
+const Page = () => {
 
     const workSaleTab: workSaleCardType[] = [
         {
@@ -91,4 +91,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page

@@ -10,7 +10,7 @@ import Link from 'next/link'
 import image5 from "@/public/5.png"
 import image3 from "@/public/3.png"
 import image4 from "@/public/4.jpg"
-const page = () => {
+const Page = () => {
 
     gsap.registerPlugin(ScrollTrigger);
 
@@ -240,4 +240,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page
